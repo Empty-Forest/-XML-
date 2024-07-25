@@ -1,0 +1,16 @@
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\bin\Debug\net6.0-windows\StudentsGradeManageSystem.exe
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\bin\Debug\net6.0-windows\StudentsGradeManageSystem.deps.json
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\bin\Debug\net6.0-windows\StudentsGradeManageSystem.runtimeconfig.json
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\bin\Debug\net6.0-windows\StudentsGradeManageSystem.dll
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\bin\Debug\net6.0-windows\StudentsGradeManageSystem.pdb
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.Form1.resources
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.csproj.GenerateResource.cache
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.AssemblyInfoInputs.cache
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.AssemblyInfo.cs
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.csproj.CoreCompileInputs.cache
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.dll
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\refint\StudentsGradeManageSystem.dll
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.pdb
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\StudentsGradeManageSystem.genruntimeconfig.cache
+F:\VisualStudio\StudentsGrade\StudentsGradeManageSystem\StudentsGradeManageSystem\obj\Debug\net6.0-windows\ref\StudentsGradeManageSystem.dll

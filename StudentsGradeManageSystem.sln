@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsGradeManageSystem", "StudentsGradeManageSystem\StudentsGradeManageSystem.csproj", "{37343A14-546D-4F19-A66A-F51F10383B04}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "学生成绩管理系统", "学生成绩管理系统\学生成绩管理系统.vdproj", "{A3A5EB4C-49E5-4D8C-95F2-E0225E9E0AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37343A14-546D-4F19-A66A-F51F10383B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37343A14-546D-4F19-A66A-F51F10383B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37343A14-546D-4F19-A66A-F51F10383B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37343A14-546D-4F19-A66A-F51F10383B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A5EB4C-49E5-4D8C-95F2-E0225E9E0AC9}.Debug|Any CPU.ActiveCfg = Debug
+		{A3A5EB4C-49E5-4D8C-95F2-E0225E9E0AC9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96DC8346-08BC-4378-8C31-1F04E827DBC7}
+	EndGlobalSection
+EndGlobal
